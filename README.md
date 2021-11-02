@@ -1,3 +1,7 @@
+<div align="center">
+<img width="100%" height = "250px" src="https://media.istockphoto.com/vectors/retro-futuristic-synthwave-retrowave-styled-night-cityscape-with-on-vector-id1211775125?k=20&m=1211775125&s=612x612&w=0&h=xI2TpYi3fFYNhnCtL1qXRBRHRMStVM5Nl9ofddGNo3g=" alt="cover" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Dobromil Stoduslki</h1>
 <h3 align="center">Student at WIT - Applied Computing</h3>
 
