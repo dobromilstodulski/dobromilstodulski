@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dobromil Stoduslki</h1>
 <h3 align="center">Student at WIT - Applied Computing</h3>
 
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=dobromilstodulski.dobromilstodulski) ![Profile views](https://gpvc.arturio.dev/dobromilstodulski)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bb100dulski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bb100dulski" height="30" width="40" /></a>
@@ -18,14 +20,18 @@
 
 <h3 align="left">My GitHub Statistics</h3> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dobromilstodulski)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/dobromilstodulski/github-readme-stats">
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dobromilstodulski&count_private=true&show_icons=true&theme=dark" />
+</a>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dobromilstodulski&show_icons=true)  
+<a href="https://github.com/dobromilstodulski/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=dobromilstodulski&count_private=true&show_icons=true&theme=dark" />
+</a>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dobromilstodulski)  
+<a href="https://github.com/dobromilstodulski/github-readme-stats">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dobromilstodulski&count_private=true&show_icons=true&theme=dark" />
+</a>
 
 ![GitHub metrics](https://metrics.lecoq.io/dobromilstodulski)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=dobromilstodulski)  
-
-![Profile views](https://gpvc.arturio.dev/dobromilstodulski)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dobromilstodulski)    
